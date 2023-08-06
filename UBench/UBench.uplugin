@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "UBench Benchmarking Plugin",
+	"Description": "",
+	"Category": "Other",
+	"CreatedBy": "UBench Organization",
+	"CreatedByURL": "http://ubench.org",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EngineVersion": "4.27.0",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"Installed": true
+}
