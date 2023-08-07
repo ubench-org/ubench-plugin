@@ -13,5 +13,11 @@
 	"EngineVersion": "4.27.0",
 	"CanContainContent": true,
 	"IsBetaVersion": true,
-	"Installed": true
+	"Installed": true,
+	"Plugins": [
+		{
+			"Name": "VaRest",
+			"Enabled": true
+		}
+	]
 }
